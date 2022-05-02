@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/comp426-2022-spring/e02-kapoole#readme",
   "dependencies": {
-    "react-scripts": "^5.0.1"
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^2.1.4"
   }
 }
