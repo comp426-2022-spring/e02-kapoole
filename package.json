@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/e02-kapoole/issues"
   },
-  "homepage": "https://github.com/comp426-2022-spring/e02-kapoole#readme"
+  "homepage": "https://github.com/comp426-2022-spring/e02-kapoole#readme",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
 }
